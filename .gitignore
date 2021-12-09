@@ -1,5 +1,7 @@
 #Ignore build folder
-build
+build/
 
 #Ignore service Gradle files
-*.gradle
+.gradle/
+
+~*
